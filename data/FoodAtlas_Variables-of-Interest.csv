@@ -1,0 +1,103 @@
+﻿Category Name,Category Code,Subcategory Name,Variable Name,Variable Code,Geography,Units
+Access and Proximity to Grocery Store,ACCESS,Overall,"Population, low access to store, 2015",LACCESS_POP15,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Overall,"Population, low access to store (%), 2015",PCT_LACCESS_POP15,CNTY10,Percent
+Access and Proximity to Grocery Store,ACCESS,Household Resources,"Low income & low access to store, 2015",LACCESS_LOWI15,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Household Resources,"Low income & low access to store (%), 2015",PCT_LACCESS_LOWI15,CNTY10,Percent
+Access and Proximity to Grocery Store,ACCESS,Household Resources,"Households, no car & low access to store, 2015",LACCESS_HHNV15,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Household Resources,"Households, no car & low access to store (%), 2015",PCT_LACCESS_HHNV15,CNTY10,Percent
+Access and Proximity to Grocery Store,ACCESS,Demographics,"Children, low access to store, 2015",LACCESS_CHILD15,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Demographics,"Children, low access to store (%), 2015",PCT_LACCESS_CHILD15,CNTY10,Percent
+Access and Proximity to Grocery Store,ACCESS,Demographics,"Seniors, low access to store, 2015",LACCESS_SENIORS15,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Demographics,"Seniors, low access to store (%), 2015",PCT_LACCESS_SENIORS15,CNTY10,Percent
+Access and Proximity to Grocery Store,ACCESS,Demographics,"White, low access to store, 2015",LACCESS_WHITE15,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Demographics,"White, low access to store (%), 2015",PCT_LACCESS_WHITE15,CNTY10,Percent
+Access and Proximity to Grocery Store,ACCESS,Demographics,"Black, low access to store, 2015",LACCESS_BLACK15,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Demographics,"Black, low access to store (%), 2015",PCT_LACCESS_BLACK15,CNTY10,Percent
+Access and Proximity to Grocery Store,ACCESS,Demographics,"Hispanic ethnicity, low access to store, 2015",LACCESS_HISP15,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Demographics,"Hispanic ethnicity, low access to store (%), 2015",PCT_LACCESS_HISP15,CNTY10,Percent
+Access and Proximity to Grocery Store,ACCESS,Demographics,"Asian, low access to store, 2015",LACCESS_NHASIAN15,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Demographics,"Asian, low access to store (%), 2015",PCT_LACCESS_NHASIAN15,CNTY10,Percent
+Access and Proximity to Grocery Store,ACCESS,Demographics,"American Indian or Alaska Native, low access to store, 2015",LACCESS_NHNA15,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Demographics,"American Indian or Alaska Native, low access to store (%), 2015",PCT_LACCESS_NHNA15,CNTY10,Percent
+Access and Proximity to Grocery Store,ACCESS,Demographics,"Hawaiian or Pacific Islander, low access to store, 2015",LACCESS_NHPI15,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Demographics,"Hawaiian or Pacific Islander, low access to store (%), 2015",PCT_LACCESS_NHPI15,CNTY10,Percent
+Access and Proximity to Grocery Store,ACCESS,Demographics,"Multiracial, low access to store, 2015",LACCESS_MULTIR15,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Demographics,"Multiracial, low access to store (%), 2015",PCT_LACCESS_MULTIR15,CNTY10,Percent
+Store Availability,STORES,Grocery,"Grocery stores, 2009",GROC09,CNTY10,Count
+Store Availability,STORES,Grocery,"Grocery stores, 2014",GROC14,CNTY10,Count
+Store Availability,STORES,Grocery,"Grocery stores (% change), 2009-14",PCH_GROC_09_14,CNTY10,% change
+Store Availability,STORES,Grocery,"Grocery stores/1,000 pop, 2009",GROCPTH09,CNTY10,"# per 1,000 pop"
+Store Availability,STORES,Grocery,"Grocery stores/1,000 pop, 2014",GROCPTH14,CNTY10,"# per 1,000 pop"
+Store Availability,STORES,Grocery,"Grocery stores/1,000 pop (% change), 2009-14",PCH_GROCPTH_09_14,CNTY10,% change
+Store Availability,STORES,Supercenters,"Supercenters & club stores, 2009",SUPERC09,CNTY10,Count
+Store Availability,STORES,Supercenters,"Supercenters & club stores, 2014",SUPERC14,CNTY10,Count
+Store Availability,STORES,Supercenters,"Supercenters & club stores (% change), 2009-14",PCH_SUPERC_09_14,CNTY10,% change
+Store Availability,STORES,Supercenters,"Supercenters & club stores/1,000 pop, 2009",SUPERCPTH09,CNTY10,"# per 1,000 pop"
+Store Availability,STORES,Supercenters,"Supercenters & club stores/1,000 pop, 2014",SUPERCPTH14,CNTY10,"# per 1,000 pop"
+Store Availability,STORES,Supercenters,"Supercenters & club stores/1,000 pop (% change), 2007-14",PCH_SUPERCPTH_09_14,CNTY10,% change
+Store Availability,STORES,Convenience,"Convenience stores, 2009",CONVS09,CNTY10,Count
+Store Availability,STORES,Convenience,"Convenience stores, 2014",CONVS14,CNTY10,Count
+Store Availability,STORES,Convenience,"Convenience stores (% change), 2009-14",PCH_CONVS_09_14,CNTY10,% change
+Store Availability,STORES,Convenience,"Convenience stores/1,000 pop, 2009",CONVSPTH09,CNTY10,"# per 1,000 pop"
+Store Availability,STORES,Convenience,"Convenience stores/1,000 pop, 2014",CONVSPTH14,CNTY10,"# per 1,000 pop"
+Store Availability,STORES,Convenience,"Convenience stores/1,000 pop (% change), 2009-14",PCH_CONVSPTH_09_14,CNTY10,% change
+Store Availability,STORES,Specialized,"Specialized food stores, 2009",SPECS09,CNTY10,Count
+Store Availability,STORES,Specialized,"Specialized food stores, 2014",SPECS14,CNTY10,Count
+Store Availability,STORES,Specialized,"Specialized food stores (% change), 2009-14",PCH_SPECS_09_14,CNTY10,% change
+Store Availability,STORES,Specialized,"Specialized food stores/1,000 pop, 2009",SPECSPTH09,CNTY10,"# per 1,000 pop"
+Store Availability,STORES,Specialized,"Specialized food stores/1,000 pop, 2014",SPECSPTH14,CNTY10,"# per 1,000 pop"
+Store Availability,STORES,Specialized,"Specialized food stores/1,000 pop (% change), 2009-14",PCH_SPECSPTH_09_14,CNTY10,% change
+Store Availability,STORES,SNAP-authorized,"SNAP-authorized stores, 2012",SNAPS12,CNTY10,Count
+Store Availability,STORES,SNAP-authorized,"SNAP-authorized stores, 2016",SNAPS16,CNTY10,Count
+Store Availability,STORES,SNAP-authorized,"SNAP-authorized stores (% change), 2012-16",PCH_SNAPS_12_16,CNTY10,% change
+Store Availability,STORES,SNAP-authorized,"SNAP-authorized stores/1,000 pop, 2012",SNAPSPTH12,CNTY10,"# per 1,000 pop"
+Store Availability,STORES,SNAP-authorized,"SNAP-authorized stores/1,000 pop, 2016",SNAPSPTH16,CNTY10,"# per 1,000 pop"
+Store Availability,STORES,SNAP-authorized,"SNAP-authorized stores/1,000 pop (% change), 2012-16",PCH_SNAPSPTH_12_16,CNTY10,% change
+Store Availability,STORES,WIC-authorized,"WIC-authorized stores, 2008",WICS08,CNTY10,Count
+Store Availability,STORES,WIC-authorized,"WIC-authorized stores, 2012",WICS12,CNTY10,Count
+Store Availability,STORES,WIC-authorized,"WIC-authorized stores (% change), 2008-12",PCH_WICS_08_12,CNTY10,% change
+Store Availability,STORES,WIC-authorized,"WIC-authorized stores/1,000 pop, 2008",WICSPTH08,CNTY10,"# per 1,000 pop"
+Store Availability,STORES,WIC-authorized,"WIC-authorized stores/1,000 pop, 2012",WICSPTH12,CNTY10,"# per 1,000 pop"
+Store Availability,STORES,WIC-authorized,"WIC-authorized stores/1,000 pop (% change), 2008-12",PCH_WICSPTH_08_12,CNTY10,% change
+Restaurant Availability and Expenditures,RESTAURANTS,Fast-food,"Fast-food restaurants, 2009",FFR09,CNTY10,Count
+Restaurant Availability and Expenditures,RESTAURANTS,Fast-food,"Fast-food restaurants, 2014",FFR14,CNTY10,Count
+Restaurant Availability and Expenditures,RESTAURANTS,Fast-food,"Fast-food restaurants (% change), 2009-14",PCH_FFR_09_14,CNTY10,% change
+Restaurant Availability and Expenditures,RESTAURANTS,Fast-food,"Fast-food restaurants/1,000 pop, 2009",FFRPTH09,CNTY10,"# per 1,000 pop"
+Restaurant Availability and Expenditures,RESTAURANTS,Fast-food,"Fast-food restaurants/1,000 pop, 2014",FFRPTH14,CNTY10,"# per 1,000 pop"
+Restaurant Availability and Expenditures,RESTAURANTS,Fast-food,"Fast-food restaurants/1,000 pop (% change), 2009-14",PCH_FFRPTH_09_14,CNTY10,% change
+Restaurant Availability and Expenditures,RESTAURANTS,Full-service,"Full-service restaurants, 2009",FSR09,CNTY10,Count
+Restaurant Availability and Expenditures,RESTAURANTS,Full-service,"Full-service restaurants, 2014",FSR14,CNTY10,Count
+Restaurant Availability and Expenditures,RESTAURANTS,Full-service,"Full-service restaurants (% change), 2009-14",PCH_FSR_09_14,CNTY10,% change
+Restaurant Availability and Expenditures,RESTAURANTS,Full-service,"Full-service restaurants/1,000 pop, 2009",FSRPTH09,CNTY10,Count
+Restaurant Availability and Expenditures,RESTAURANTS,Full-service,"Full-service restaurants/1,000 pop, 2014",FSRPTH14,CNTY10,Count
+Restaurant Availability and Expenditures,RESTAURANTS,Full-service,"Full-service restaurants/1,000 pop (% change), 2009-14",PCH_FSRPTH_09_14,CNTY10,% change
+Restaurant Availability and Expenditures,RESTAURANTS,Expenditures,"Expenditures per capita, fast food, 2007*",PC_FFRSALES07,CNTY10,Dollars
+Restaurant Availability and Expenditures,RESTAURANTS,Expenditures,"Expenditures per capita, fast food, 2012*",PC_FFRSALES12,CNTY10,Dollars
+Restaurant Availability and Expenditures,RESTAURANTS,Expenditures,"Expenditures per capita, restaurants, 2007*",PC_FSRSALES07,CNTY10,Dollars
+Restaurant Availability and Expenditures,RESTAURANTS,Expenditures,"Expenditures per capita, restaurants, 2012*",PC_FSRSALES12,CNTY10,Dollars
+Health and Physical Activity,HEALTH,Health,"Adult diabetes rate, 2008",PCT_DIABETES_ADULTS08,CNTY10,Percent
+Health and Physical Activity,HEALTH,Health,"Adult diabetes rate, 2013",PCT_DIABETES_ADULTS13,CNTY10,Percent
+Health and Physical Activity,HEALTH,Health,"Adult obesity rate, 2008",PCT_OBESE_ADULTS08,CNTY10,Percent
+Health and Physical Activity,HEALTH,Health,"Adult obesity rate, 2013",PCT_OBESE_ADULTS13,CNTY10,Percent
+Health and Physical Activity,HEALTH,Physical Activity,"High schoolers physically active (%), 2015*",PCT_HSPA15,CNTY10,Percent
+Health and Physical Activity,HEALTH,Physical Activity,"Recreation & fitness facilities, 2009",RECFAC09,CNTY10,Count
+Health and Physical Activity,HEALTH,Physical Activity,"Recreation & fitness facilities, 2014",RECFAC14,CNTY10,Count
+Health and Physical Activity,HEALTH,Physical Activity,"Recreation & fitness facilities (% change), 2009-14",PCH_RECFAC_09_14,CNTY10,% change
+Health and Physical Activity,HEALTH,Physical Activity,"Recreation & fitness facilities/1,000 pop, 2009",RECFACPTH09,CNTY10,"# per 1,000 pop"
+Health and Physical Activity,HEALTH,Physical Activity,"Recreation & fitness facilities/1,000 pop, 2014",RECFACPTH14,CNTY10,"# per 1,000 pop"
+Health and Physical Activity,HEALTH,Physical Activity,"Recreation & fitness facilities/1,000 pop (% change), 2009-14",PCH_RECFACPTH_09_14,CNTY10,% change
+Socioeconomic Characteristics,SOCIOECONOMIC,Race & Age,"% White, 2010",PCT_NHWHITE10,CNTY10,Percent
+Socioeconomic Characteristics,SOCIOECONOMIC,Race & Age,"% Black, 2010",PCT_NHBLACK10,CNTY10,Percent
+Socioeconomic Characteristics,SOCIOECONOMIC,Race & Age,"% Hispanic, 2010",PCT_HISP10,CNTY10,Percent
+Socioeconomic Characteristics,SOCIOECONOMIC,Race & Age,"% Asian, 2010",PCT_NHASIAN10,CNTY10,Percent
+Socioeconomic Characteristics,SOCIOECONOMIC,Race & Age,"% American Indian or Alaska Native, 2010",PCT_NHNA10,CNTY10,Percent
+Socioeconomic Characteristics,SOCIOECONOMIC,Race & Age,"% Hawaiian or Pacific Islander, 2010",PCT_NHPI10,CNTY10,Percent
+Socioeconomic Characteristics,SOCIOECONOMIC,Race & Age,"% Population 65 years or older, 2010",PCT_65OLDER10,CNTY10,Percent
+Socioeconomic Characteristics,SOCIOECONOMIC,Race & Age,"% Population under age 18, 2010",PCT_18YOUNGER10,CNTY10,Percent
+Socioeconomic Characteristics,SOCIOECONOMIC,Income Level,"Median household income, 2015",MEDHHINC15,CNTY10,Dollars
+Socioeconomic Characteristics,SOCIOECONOMIC,Income Level,"Poverty rate, 2015",POVRATE15,CNTY10,Percent
+Socioeconomic Characteristics,SOCIOECONOMIC,Income Level,"Persistent-poverty counties, 2010",PERPOV10,CNTY10,Legend
+Socioeconomic Characteristics,SOCIOECONOMIC,Income Level,"Child poverty rate, 2015",CHILDPOVRATE15,CNTY10,Percent
+Socioeconomic Characteristics,SOCIOECONOMIC,Income Level,"Persistent-child-poverty counties, 2010",PERCHLDPOV10,CNTY10,Legend
+Socioeconomic Characteristics,SOCIOECONOMIC,Other,"Metro/nonmetro counties, 2010",METRO13,CNTY10,Legend
+Socioeconomic Characteristics,SOCIOECONOMIC,Other,"Population-loss counties, 2010",POPLOSS10,CNTY10,Legend
